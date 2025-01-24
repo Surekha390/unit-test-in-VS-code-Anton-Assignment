@@ -1,3 +1,4 @@
+
 # unit-test-in-VS-code
 Unit test is working in VS Code
 This program works in only visual code.
@@ -27,3 +28,4 @@ Yes, pytest and unittest are both testing frameworks specifically designed for P
 ==============
 The trend in the Python testing ecosystem has shifted strongly in favor of pytest in recent years. While unittest is still widely used, pytest has become the most popular framework for Python testing due to its flexibility, simplicity, and rich feature set.
 =============
+chatgpt link: https://chatgpt.com/c/6793a4a5-7fa4-800e-9cdd-7d8eee480ced
